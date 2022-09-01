@@ -19,6 +19,3 @@ Finally, the optimal model will be published as web service, and it will be used
 The following documents are provided in this repository:
   1. PML-0322A-Lee Jack Shiang-Project.docx: Word document for the project report
   2. Test-Flights.csv: Dataset for the project
-  
-  
-  hhhh
