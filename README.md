@@ -1,9 +1,9 @@
 # Prediction of Regression Model using Azure Machine Learning Platform
 
 ## Project Overview
-This project serves as the continuation from the project of previous module, and the repository for the previous project is “Train-Test-and-Publish-a-Regression-Model-using-Azure-Machine-Learning-Platform”.
+This project serves as the continuation from the project of previous module, and the repository for the previous project is “Train, Test and Publish a Regression Model using Azure Machine Learning Platform”.
 
-In this project, techniques for further improving the base boosted decision tree regression model, such as studying model performance using different algorithms, feature selection, handling of outliers, hyperparameter tuning are used to obtain the optimal model. Subsequently, cross-validation check is performed for the optimal model to check if it is well generalized. Finally, the optimal model is published as web service, and it is used to predict the ArrDelay of the test data ‘Test-Flights.csv’ using Excel Online.
+In this project, techniques for further improving the base boosted decision tree regression model, such as using different algorithms, feature selection, handling of outliers, hyperparameter tuning are used to obtain the optimal model. Subsequently, cross-validation check is performed for the optimal model to check if it is well generalized. Finally, the optimal model is published as web service, and it is used to predict the ArrDelay of the test data ‘Test-Flights.csv’ using Excel Online.
 
 ## Objectives of the Project
 The following are the objectives of the project:
