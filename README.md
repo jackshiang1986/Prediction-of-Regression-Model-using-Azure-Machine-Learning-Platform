@@ -1,5 +1,7 @@
 # Prediction of Regression Model using Azure Machine Learning Platform
 
+This project serves as the Summative Assessment for module "Principles of Machine Learning" of Professional Diploma in Data Science of Lithan Academy.
+
 ## Project Overview
 This project serves as the continuation from the project of previous module, and the repository for the previous project is “Train, Test and Publish a Regression Model using Azure Machine Learning Platform”.
 
